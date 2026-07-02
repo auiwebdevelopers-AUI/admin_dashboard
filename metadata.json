@@ -1,0 +1,6 @@
+{
+  "name": "Blog Platform & Admin Dashboard",
+  "description": "A fully featured responsive blog platform featuring a home page, article list, deep article reading view, category filter, likes, bookmarking, comments, about page, contact form, and a robust admin dashboard for post and comment management with interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
